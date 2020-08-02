@@ -1,4 +1,4 @@
-## I'm WuHen. 👋
+## I'm WuHen. <img src="https://github.com/291663174/291663174/blob/master/images/hi.png" width = "30" height = "30" alt="hi" align=center />
 
 👨‍💻 Languages: Java, Android, HTML, CSS, JavaScript.
 
