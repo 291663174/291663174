@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=291663174)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![291663174's github stats](https://github-readme-stats.vercel.app/api?username=291663174&show_icons=true&theme=radical)
+[![291663174's github stats](https://github-readme-stats.vercel.app/api?username=291663174&show_icons=true&theme=radical)](https://github.com/291663174)
