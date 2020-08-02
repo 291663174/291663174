@@ -2,7 +2,7 @@
 
 👨‍💻 Languages: Java, Android, HTML, CSS, JavaScript.
 
-👨‍🎓 About me:A developer from China.
+👨‍🎓 About me ：A developer from China.
 <!--
 **291663174/291663174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
